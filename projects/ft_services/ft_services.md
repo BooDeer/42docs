@@ -25,7 +25,7 @@ Kubernetes provides a platform to configure, automate, and manage:
 - Easy scaling of containers
 - Monitoring and self-healing abilities
 
-Major compnies use Kubernetes to achieve their goals, on of those companies is
+Major companies use Kubernetes to achieve their goals, on of those companies is
 Faceit, a major esports company providing high performance servers for
 competitive online games like CSGO. Read more about how they use Kubernetes
 [here](https://cloud.google.com/customers/faceit/).
